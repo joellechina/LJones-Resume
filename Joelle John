@@ -1,18 +1,36 @@
 <html>
 <head>
+<style> 
+.links {text-align: center}
+h1 {text-align: center}
+h2 { color: blue}
+</style>
 <body>
-<div class= "Links"><a href="obj">Objectives</a><a href="exp">Experience</a><a href="edu">Education</a><a href="skl">Skills</a></div>
+<div class= "Links"><a href="#obj">Objectives</a>  <a href="#exp">Experience</a>   <a href="#edu">Education</a>  <a href="#skl">Skills</a></div>
 <h1>Laura Jones</h1>
-<h2> id="obj" Objectives</h2>
+<span>908-248-7369 - 123 Main St, Brooklyn, NY- 
+<a ref="mailto:ljones@brooklyn.nyc">ljones@brooklyn.nyc</a></span>
+<h2>  Objectives</h2>
+
 <p>An internship where I may use my technology background skills to further company growth.</p>
-<h2> id="exp"Experience</h2>
-<p> Ignoring people and doing whatever I want. Ordering a bunch of food to my desk. Flirting with my coworkers.
-</p>
-<h2> id="edu"Education</h2>
+<h2> Experience</h2>
+<h3>
+Walmart (salesforce engineer)
+</h3>
+<ul>
+ <li> Ignoring people and doing whatever I want. Ordering a bunch of food to my desk. Flirting with my coworkers. </li>
+ </ul>
+<h3>
+Amazon (network engineer)
+</h3>
+<ul>
+<li> ruling the world</li>
+</ul>
+<h2> Education</h2>
 <p>
 Howard University, School of Business Administration, Washington, DC
 Major: Computer Information Systems </p>
-<h2> id="skl"Skills</h2>
+<h2> Skills</h2>
 <p>
 Talking back. Doing my makeup with no mirror. Procrastinating for the entire workday.</p>
 </body>
